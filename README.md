@@ -1,32 +1,40 @@
-# React + TypeScript + Vite
+# 🚀 DevOps & Cloud Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, interactive personal portfolio built to showcase my journey as a **DevOps & Cloud Enthusiast**.
 
-Currently, two official plugins are available:
+The portfolio focuses on my hands-on learning, cloud infrastructure projects, Linux automation, DevOps tools, and practical engineering work.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+### 🛠️ Tech Stack
 
-## React Compiler
+* React + TypeScript
+* Vite
+* Tailwind CSS
+* Framer Motion
+* Lucide React
+* Responsive UI
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### ☁️ Featured Projects
 
-## Expanding the Oxlint configuration
+**AWS Notes Application**
+A full-stack application deployed on AWS using services including VPC, EC2, RDS, S3, Lambda, DynamoDB, ALB, Auto Scaling and Route 53.
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+**Linux Server Health & Log Analyzer**
+A Bash-based Linux automation tool that performs server health, service, log, disk, memory, CPU, and SSH security checks.
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
-```
+### ✨ Portfolio Features
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+* Modern DevOps/cloud-inspired UI
+* Interactive infrastructure architecture
+* Animated CI/CD pipeline visualization
+* Interactive terminal
+* Responsive design
+* Smooth animations and transitions
+* GitHub project integration
+* SEO-friendly structure
+* Accessibility and reduced-motion support
+
+### 🎯 Purpose
+
+This portfolio is part of my ongoing journey toward becoming a **DevOps Engineer**, where I focus on learning by building practical projects and understanding how infrastructure, automation, cloud services, and deployment workflows work together.
+
+🔗 **GitHub:** https://github.com/Nishant1707-ai
